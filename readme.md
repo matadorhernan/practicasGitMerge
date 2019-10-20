@@ -1,1 +1,1 @@
-"# practicasGitMerge" 
+# practicasGitMerge
